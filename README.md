@@ -14,9 +14,13 @@
 
 
 <h3> :iphone: Mobile</h3>
-<img src = "https://github.com/mathrusso99/conversor-de-moedas/blob/main/assets/mobile.png?raw=true">
+<img src = "https://github.com/mathrusso99/sorteio/blob/main/assets/Captura%20de%20Tela%20(30).png?raw=true">
 
 <h3> 🖱️ Site funcionando</h3>
 
 
-https://github.com/mathrusso99/conversor-de-moedas/assets/109997515/71f538ab-4b1f-4c4a-8b7d-b7cebf5413f7
+
+https://github.com/mathrusso99/sorteio/assets/109997515/ea821c01-fba9-4cde-83b0-424027ee6a7b
+
+
+
